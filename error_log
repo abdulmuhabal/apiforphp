@@ -1,0 +1,111 @@
+[09-Feb-2017 21:25:17 America/Chicago] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 3
+[09-Feb-2017 21:25:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 3
+[09-Feb-2017 21:52:17 America/Chicago] PHP Notice:  Undefined variable: url_id in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 19
+[09-Feb-2017 21:53:13 America/Chicago] PHP Notice:  Undefined variable: url_id in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 19
+[09-Feb-2017 21:53:39 America/Chicago] PHP Notice:  Undefined index: report_compscore in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 23
+[09-Feb-2017 21:53:39 America/Chicago] PHP Notice:  Undefined index: report_data in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 24
+[09-Feb-2017 21:53:39 America/Chicago] PHP Notice:  Undefined index: report_dialog in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 25
+[09-Feb-2017 21:53:39 America/Chicago] PHP Notice:  Undefined index: report_url in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 26
+[09-Feb-2017 21:53:39 America/Chicago] PHP Notice:  Undefined index: report_date in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 27
+[09-Feb-2017 21:53:39 America/Chicago] PHP Fatal error:  Call to undefined method Admin::getUserInfo() in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 28
+[10-Feb-2017 00:46:54 America/Chicago] PHP Notice:  Undefined index: report_compscore in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 23
+[10-Feb-2017 00:46:54 America/Chicago] PHP Notice:  Undefined index: report_data in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 24
+[10-Feb-2017 00:46:54 America/Chicago] PHP Notice:  Undefined index: report_dialog in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 25
+[10-Feb-2017 00:46:54 America/Chicago] PHP Notice:  Undefined index: report_url in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 26
+[10-Feb-2017 00:46:54 America/Chicago] PHP Notice:  Undefined index: report_date in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 27
+[10-Feb-2017 00:46:54 America/Chicago] PHP Fatal error:  Call to undefined method Admin::getUserInfo() in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 28
+[10-Feb-2017 00:50:30 America/Chicago] PHP Notice:  Undefined index: report_compscore in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 23
+[10-Feb-2017 00:50:30 America/Chicago] PHP Notice:  Undefined index: report_data in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 24
+[10-Feb-2017 00:50:30 America/Chicago] PHP Notice:  Undefined index: report_dialog in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 25
+[10-Feb-2017 00:50:30 America/Chicago] PHP Notice:  Undefined index: report_url in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 26
+[10-Feb-2017 00:50:30 America/Chicago] PHP Notice:  Undefined index: report_date in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 27
+[10-Feb-2017 00:50:30 America/Chicago] PHP Fatal error:  Call to undefined method Admin::getUserInfo() in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 28
+[10-Feb-2017 00:53:54 America/Chicago] PHP Notice:  Undefined index: report_compscore in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 23
+[10-Feb-2017 00:53:54 America/Chicago] PHP Notice:  Undefined index: report_data in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 24
+[10-Feb-2017 00:53:54 America/Chicago] PHP Notice:  Undefined index: report_dialog in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 25
+[10-Feb-2017 00:53:54 America/Chicago] PHP Notice:  Undefined index: report_url in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 26
+[10-Feb-2017 00:53:54 America/Chicago] PHP Notice:  Undefined index: report_date in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 27
+[10-Feb-2017 00:53:54 America/Chicago] PHP Fatal error:  Call to undefined method Admin::getUserInfo() in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 28
+[10-Feb-2017 00:56:14 America/Chicago] PHP Notice:  Undefined index: report_compscore in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 23
+[10-Feb-2017 00:56:14 America/Chicago] PHP Notice:  Undefined index: report_data in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 24
+[10-Feb-2017 00:56:14 America/Chicago] PHP Notice:  Undefined index: report_dialog in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 25
+[10-Feb-2017 00:56:14 America/Chicago] PHP Notice:  Undefined index: report_url in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 26
+[10-Feb-2017 00:56:14 America/Chicago] PHP Notice:  Undefined index: report_date in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 27
+[10-Feb-2017 00:56:14 America/Chicago] PHP Fatal error:  Call to undefined method Admin::getUserInfo() in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 28
+[10-Feb-2017 00:58:21 America/Chicago] PHP Fatal error:  Class 'Score' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 16
+[10-Feb-2017 01:01:13 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 2
+[10-Feb-2017 01:01:13 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 2
+[10-Feb-2017 01:01:13 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 2
+[10-Feb-2017 01:01:54 America/Chicago] PHP Fatal error:  Class 'ComposerAutoloaderInit6e4c7652970bf1205e670dd9a1ed8fc7' not found in /home2/mong/public_html/sharkleadsv2/vendor/autoload.php on line 7
+[10-Feb-2017 01:02:30 America/Chicago] PHP Fatal error:  Class 'ComposerAutoloaderInit6e4c7652970bf1205e670dd9a1ed8fc7' not found in /home2/mong/public_html/sharkleadsv2/vendor/autoload.php on line 7
+[10-Feb-2017 01:08:36 America/Chicago] PHP Notice:  Undefined index: client_login in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 57
+[10-Feb-2017 01:08:53 America/Chicago] PHP Notice:  Undefined index: client_login in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 57
+[10-Feb-2017 01:32:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 42
+[10-Feb-2017 01:33:57 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 7
+[10-Feb-2017 01:43:27 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 7
+[10-Feb-2017 01:50:27 America/Chicago] PHP Notice:  Undefined variable: return in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 41
+[10-Feb-2017 01:55:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 41
+[10-Feb-2017 01:58:45 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 7
+[10-Feb-2017 02:02:59 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 7
+[10-Feb-2017 02:06:29 America/Chicago] PHP Notice:  Undefined variable: mj in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 42
+[10-Feb-2017 02:06:29 America/Chicago] PHP Fatal error:  Call to a member function post() on null in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 42
+[10-Feb-2017 02:09:35 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 42
+[10-Feb-2017 02:10:50 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 43
+[10-Feb-2017 02:12:18 America/Chicago] PHP Fatal error:  Class 'Mailjet\Client' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 43
+[10-Feb-2017 02:18:24 America/Chicago] PHP Fatal error:  Class 'Mailjet\Resources' not found in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 43
+[10-Feb-2017 02:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Mailjet\Client::test() in /home2/mong/public_html/sharkleadsv2/api/Statics.php on line 43
+[10-Feb-2017 09:49:39 America/Chicago] PHP Notice:  Undefined index: report_compscore in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 23
+[10-Feb-2017 09:49:39 America/Chicago] PHP Notice:  Undefined index: report_data in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 24
+[10-Feb-2017 09:49:39 America/Chicago] PHP Notice:  Undefined index: report_dialog in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 25
+[10-Feb-2017 09:49:39 America/Chicago] PHP Notice:  Undefined index: report_url in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 26
+[10-Feb-2017 09:49:39 America/Chicago] PHP Notice:  Undefined index: report_date in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 27
+[10-Feb-2017 09:49:39 America/Chicago] PHP Fatal error:  Call to undefined method Admin::getUserInfo() in /home2/mong/public_html/sharkleadsv2/api/Admin.php on line 28
+[10-Feb-2017 09:50:09 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 09:54:30 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 09:55:26 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 09:55:26 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 09:55:27 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 09:57:09 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:05:26 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:07:47 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:07:47 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:07:48 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:09:46 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:10:09 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:12:51 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:13:51 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:26:00 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:26:32 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:27:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:27:39 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:39:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:39:04 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:39:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:39:39 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:39:45 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:39:45 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:39:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:39:49 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:46:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:46:49 America/Chicago] PHP Notice:  Undefined index: email in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 69
+[10-Feb-2017 10:50:33 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:50:33 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:51:35 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:51:35 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:51:37 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:51:37 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:51:59 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:51:59 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:52:03 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:52:03 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:52:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:52:23 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 10:52:43 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Feb-2017 10:52:43 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[10-Feb-2017 16:19:30 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[11-Feb-2017 04:47:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-Feb-2017 04:47:07 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[11-Feb-2017 04:50:30 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-Feb-2017 04:50:30 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
+[11-Feb-2017 05:27:17 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-Feb-2017 05:27:17 America/Chicago] PHP Notice:  Undefined index: data in /home2/mong/public_html/sharkleadsv2/api/Routes.php on line 61
